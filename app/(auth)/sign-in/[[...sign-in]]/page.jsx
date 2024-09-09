@@ -61,12 +61,11 @@ export default function Page() {
                             </a>
 
                             <h1 className="mt-2 text-2xl font-bold text-gray-900 sm:text-3xl md:text-4xl">
-                                Welcome to Squid 🦑
+                              Welcome to Microsoft Loop 2.0
                             </h1>
 
                             <p className="mt-4 leading-relaxed text-gray-500">
-                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi nam dolorum aliquam,
-                                quibusdam aperiam voluptatum.
+                            Welcome to Microsoft Loop! To get started, please sign in with your Microsoft account. Signing in will grant you access to your personalized workspace where you can collaborate seamlessly, manage tasks, and stay organized with your team. If you don’t have an account yet, you can easily create one to begin your journey with Microsoft Loop.
                             </p>
                         </div>
                     </div>
